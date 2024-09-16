@@ -7,7 +7,7 @@ Piviot Slicers are also included to create a Dynamic and Interactive Data Analys
 
 P.S: Clear Slicer button is incorporated.
 
-Source File and Deliverable file, included
+Source and Deliverable file, included
 
 
 ![image](https://github.com/user-attachments/assets/3ee4de5d-6186-44f2-8757-9a4fa942e715)
